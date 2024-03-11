@@ -4,4 +4,4 @@ lien maquette figma : https://www.figma.com/file/jAXfIr1eRvULIE0smIgCM1/Projet-V
 
 Lien repo originel : https://github.com/BenjaminForestier/Projet-Vue-JS
 
-Lien du site : 
+Lien du site : https://yoann-nicosia.github.io/film-vuejs/
